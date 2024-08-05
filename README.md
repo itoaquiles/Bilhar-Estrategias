@@ -1,5 +1,8 @@
-# Bilhar-Estrategias 🎱
+### Bilhar-Estrategias 🎱
 
-Meu nome é Aquiles
+Aprender Sinuca
 
  - Aprenda Estrategias de Sinuca!!
+ - Nunca erre uma bola!
+
+![](https://media1.tenor.com/m/j39LgbTqf9kAAAAC/pool-beer.gif)
