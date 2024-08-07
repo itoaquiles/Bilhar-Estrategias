@@ -9,4 +9,4 @@ Aprender Sinuca
 
 ## Jogar Sinuca 🎮
 
- - Clique [Aqui] Para jogar Siuca!
+ - Clique [Aqui](https://www.sinuca.org/eight-ball-pool) Para jogar Sinuca!
